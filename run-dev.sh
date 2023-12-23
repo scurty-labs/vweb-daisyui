@@ -1,0 +1,1 @@
+v -d vweb_livereload -d dev watch run .
