@@ -1,1 +1,1 @@
-npx postcss-cli tailwind.css -o static/daisyui-compliled.css && v run .
+npx postcss-cli tailwind.css -o static/daisyui-compiled.css && v run .
