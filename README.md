@@ -2,7 +2,7 @@
 
 Be sure to have `npm` installed, next run:
 
-`npm i daisyui@latest`
+`npm i -D daisyui@latest`
 
 And then run:
 
