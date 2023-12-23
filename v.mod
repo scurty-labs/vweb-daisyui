@@ -1,7 +1,7 @@
 Module {
-	name: 'ui_test'
-	description: 'asdf'
-	version: '0.0.0'
+	name: 'vweb-daisyui'
+	description: 'Basic way of getting daisyUI working with vweb.'
+	version: '0.1.0'
 	license: 'MIT'
 	dependencies: []
 }
